@@ -1,2 +1,3 @@
 some line in file c
 zaraland add newline for practice
+add newline to file c for practice fetching
